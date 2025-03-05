@@ -30,7 +30,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/AdilQuraishi2021/college-management-system.git
+git clone https://github.com/AdilQuraishi2021/College.Management.System
 Import the project into IntelliJ IDEA: Open IntelliJ IDEA and import the project as a Java project.
 
 Set up the Database:
